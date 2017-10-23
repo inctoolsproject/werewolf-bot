@@ -21,7 +21,7 @@ desc['Hunter'] = 'ทีม [Villager] \uDBC0\uDC90\n   มี Passive Ability �
 desc['Villager'] = 'ทีม [Villager] \uDBC0\uDC90\n   ทำอะไรไม่ได้นอกจากบัฟคนอื่นและช่วยหาหมาป่า \uDBC0\uDC95|\uDBC0\uDC77 Tip!\n    พยายามช่วยทีมละกันนะ สู้ๆ 5555'
 
 global LINE_API_KEY
-LINE_API_KEY = 'secret'
+LINE_API_KEY = '82b2de988f39d3bbc2bc6b952f61339b' #secret
 
 app = Flask(__name__)
 
